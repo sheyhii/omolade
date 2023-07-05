@@ -1,2 +1,2 @@
-# omolade
+Omolade
 omolade test repository
